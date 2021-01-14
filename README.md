@@ -97,7 +97,7 @@ For installing Kibana, we have used the Kubernetes cluster, and used the IBM Clo
 ```sh  
      $ kubectl get service –n Namespace 
 ```
-![alt text](KibanaVerify4.png)
+![alt text](KibanaVerify5.png)
 
 
 The installation is done. Enjoy!
